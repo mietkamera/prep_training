@@ -17,16 +17,16 @@ Das Bild kann über die API heruntergeladen werden. Das hat den Vorteil, dass di
 
 - In der oberen Ebene das Tool **Freie Auswahl** mit der Taste `F` öffnen und den zu maskierenden Bereich auswählen. 
  
-<img src="resources/gimp_mask_1.png" style="zoom:50%;" />
+<img src="../resources/gimp_mask_1.png" style="zoom:50%;" />
 
 - mit `Ctrl-,` den ausgewählten Bereich schwarz einfärben
 
-<img src="resources/gimp_mask_2.png" style="zoom:50%;" />
+<img src="../resources/gimp_mask_2.png" style="zoom:50%;" />
 
 - mit `Ctrl-I` die Auswahl umkehren
 - mit `Ctrl-.` die Auswahl weiß einfärben
  
-<img src="resources/gimp_mask_3.png" style="zoom:50%;" />
+<img src="../resources/gimp_mask_3.png" style="zoom:50%;" />
 
 ### Weitere Bereiche maskieren
 
